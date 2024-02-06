@@ -1,5 +1,5 @@
 <div>
-  <h1>Python 공부ing~~~~~~~~</h1>
+  <h1>Python 백준</h1>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
   <p>

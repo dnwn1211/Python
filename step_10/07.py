@@ -4,7 +4,6 @@
 while True: 
     tri = list(map(int, input().split()))
     tri.sort()
-    print(tri)
 
     if tri[0] == 0 and tri[1] == 0 and tri[2] == 0:
         break

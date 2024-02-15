@@ -1,2 +1,1 @@
-song = input()
-print(song)
+print('Hymn To Love')

@@ -1,5 +1,14 @@
 #11478
 
-st = input()
+def diff(s):
+    substrings = set()
+    
+    for i in range(len(s)):
+        for j in range(i + 1, len(s) + 1):
+            substrings.add(s[i:j])
 
-print(set(st))
+    return len(substrings)
+
+s = input()
+result = diff(s)
+print(result)
